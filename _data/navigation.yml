@@ -1,7 +1,19 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "HOME"
+    url: https://youjeonghan.github.io/
+
+  - title: "Categories"
+    url: /categories/
+
+  - title: "윤동주"
+    url: /categories/youndongju/
+
+  - title: "Tags"
+    url: /tags/
+    
+  - title: "About"
+    url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
