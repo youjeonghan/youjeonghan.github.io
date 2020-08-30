@@ -6,11 +6,13 @@ main:
   - title: "Categories"
     url: /categories/
 
-  - title: "윤동주"
-    url: /categories/youndongju/
-
   - title: "Tags"
     url: /tags/
+    
+  - title: "Baekjoon"
+    url: /categories/Baekjoon/
+
+
     
   - title: "About"
     url: /about/
