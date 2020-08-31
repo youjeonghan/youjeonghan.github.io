@@ -12,6 +12,9 @@ main:
   - title: "Baekjoon"
     url: /categories/Baekjoon/
 
+  - title: "Python"
+    url: /categories/Python/
+
 
     
   - title: "About"
