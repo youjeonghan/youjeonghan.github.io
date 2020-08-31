@@ -3,8 +3,7 @@ title: "이 블로그 설명서"
 permalink: /about/
 layout: single
 --- 
-## youjeonghan.github.io 블로그
+## 코딩하는 계란의 블로그
+## youjeonghan.github.io
 
-이 블로그는 GitHub Pages 블로그 서비스인 github.io를 같이 만들어보는 샘플 블로그이다.
-
-블로그인 <https://devinlife.com>을 방문해보자. 이 곳에서 이 샘플 블로그를 같이 만들어보는 GitHub Pages 블로그 따라하기 시리즈의 모든 글을 볼 수 있다.
+이 블로그는 개발하는 과정에서 새롭게 알게 된 것과 내 개발일지 정도의 블로그라고 보면 될 거 같다.
