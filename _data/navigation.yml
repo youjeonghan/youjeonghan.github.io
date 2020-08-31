@@ -15,7 +15,8 @@ main:
   - title: "Python"
     url: /categories/Python/
 
-
+  - title: "Git"
+    url: /categories/Git/
     
   - title: "About"
     url: /about/
