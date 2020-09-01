@@ -277,7 +277,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "assets/img"
       type: posts
     values:
       layout: single
@@ -289,7 +289,7 @@ defaults:
 
   # _pages
   - scope:
-      path: ""
+      path: "assets/img"
       type: pages
     values:
       layout: single
