@@ -30,7 +30,7 @@
     font-family: $sans-serif-narrow;
 
     /* devinlife : 메뉴바 텍스트 설정 */
-    font-size: $type-size-4;
+    font-size: $type-size-5;      /* 숫자 클수록 사이즈 작아짐 */
     font-weight: bold;
 
     @include breakpoint($x-large) {

@@ -17,17 +17,19 @@ main:
 
   - title: "Git"
     url: /categories/Git/
-
-  - title: "깃깃"
-    url: /categories/깃/
-    
+  
   - title: "About"
     url: /about/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+docs:
+  - title: Algorithm
+    children:
+      - title: "Baekjoon"
+        url: /categories/Baekjoon/
+
+  - title: Customization
+    children:
+      - title: "미정_1"
+        url: /docs/configuration/
+      - title: "미정_2"
+        url: /docs/navigation/

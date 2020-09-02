@@ -56,8 +56,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -101,9 +101,10 @@ analytics:
 author:
   name             : "코딩하는 계란"
   avatar           : "/assets/images/egg.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "코딩 및 개발을 좋아하는 계란입니다."
-  location         : "South Korea"
-  email            :
+  bio              : "코딩 및 개발을 좋아하는 계란입니다. \n
+  \n고양이와 민트도 좋아합니다."
+  location         : # "South Korea"
+  email            : "yjh9360@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -286,6 +287,8 @@ defaults:
       comments: true # true
       share: true
       related: true
+      sidebar:
+        nav: "docs"
 
   # _pages
   - scope:
