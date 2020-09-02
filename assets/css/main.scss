@@ -4,6 +4,16 @@
 
 @charset "utf-8";
 
+// @@@@@  MY CUSTOM  @@@@@
+
+$footer-background-color: #F3F3F3 !default;	//footer 배경색(메인색이랑맞춤)
+$border-color: #000 !default;	// 메뉴 밑줄 색상
+
+//main 위에 공간주기
+div#main {		
+margin-top : 1.0em;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 @import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
