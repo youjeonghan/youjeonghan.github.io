@@ -1,30 +1,12 @@
 # main links
 main:
-  - title: "HOME"
-    url: https://youjeonghan.github.io/
-
+  - title: "블로그 방문하기"
+    url: https://devinlife.com/
+  - title: "윤동주"
+    url: /categories/윤동주/
   - title: "Categories"
     url: /categories/
-
   - title: "Tags"
     url: /tags/
-    
-  - title: "Baekjoon"
-    url: /categories/Baekjoon/
-
-  - title: "Python"
-    url: /categories/Python/
-
-  - title: "Git"
-    url: /categories/Git/
-    
   - title: "About"
     url: /about/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/

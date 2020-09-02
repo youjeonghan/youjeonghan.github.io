@@ -126,7 +126,7 @@ To install:
    bundle
    ```
 
-4. Add `remote_theme: "mmistakes/minimal-mistakes@4.20.1"` to your `_config.yml` file. Remove any other `theme:` or `remote_theme:` entry.
+4. Add `remote_theme: "mmistakes/minimal-mistakes@4.19.2"` to your `_config.yml` file. Remove any other `theme:` or `remote_theme:` entry.
 
 **Looking for an example?** Use the [Minimal Mistakes remote theme starter](https://github.com/mmistakes/mm-github-pages-starter/generate) for the quickest method of getting a GitHub Pages hosted site up and running. Generate a new repository from the starter, replace sample content with your own, and configure as needed.
 
@@ -238,7 +238,7 @@ Breakpoint is distributed under the terms of the [MIT/GPL Licenses](http://opens
 
 Minimal Mistakes incorporates [FitVids.js](https://github.com/davatron5000/FitVids.js/),
 Copyright (c) 2013 Dave Rubert and Chris Coyier.
-FitVids is distributed under the terms of the [WTFPL License](http://www.wtfpl.net/).
+FitVids is distributed under the terms of the [WTFPL License](http://sam.zoy.org/wtfpl/).
 
 Minimal Mistakes incorporates [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/),
 Copyright (c) 2014-2016 Dmitry Semenov, http://dimsemenov.com.
