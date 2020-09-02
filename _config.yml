@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "코딩하는계란"
+title                    : "코딩하는 계란"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "코딩하는 계란"
@@ -100,7 +100,7 @@ analytics:
 # Site Author
 author:
   name             : "코딩하는 계란"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/egg.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "코딩 및 개발을 좋아하는 계란입니다."
   location         : "South Korea"
   email            :
