@@ -27,9 +27,9 @@ docs:
       - title: "Baekjoon"
         url: /categories/Baekjoon/
 
-  - title: Customization
-    children:
-      - title: "미정_1"
-        url: /docs/configuration/
-      - title: "미정_2"
-        url: /docs/navigation/
+  # - title: Customization
+  #   children:
+  #     - title: "미정_1"
+  #       url: /docs/configuration/
+  #     - title: "미정_2"
+  #       url: /docs/navigation/

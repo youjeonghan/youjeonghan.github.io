@@ -104,7 +104,7 @@ author:
   bio              : "코딩 및 개발을 좋아하는 계란입니다. \n
   \n고양이와 민트도 좋아합니다."
   location         : # "South Korea"
-  email            : "yjh9360@naver.com"
+  email            : # "yjh9360@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
